@@ -5,4 +5,4 @@ For this exercise, I followed the "Buying and Selling the Troubled Company" case
 Source:
 https://www.wallstreetoasis.com/files/HH%20Restructuring%20bsttcacs.pdf
 
-![image alt]()
+![image alt](https://github.com/aarern/Buying-and-Selling-the-Troubled-Company/blob/c1180c54171770480a7e44bdb8e75daac28b1c8c/images/res1.png)
